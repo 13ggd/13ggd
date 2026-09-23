@@ -9,9 +9,10 @@ Tecnologia aplicada à saúde pública, com apoio do Claude Code.
 #### 🚀 Projetos
 
 - **[ProntoPlantão](https://prontoplantao.com.br)** — cocriador do aplicativo.
-- **[UBS Paquetá](https://github.com/13ggd/ubspaqueta)** — site de horários, avisos e contatos de uma
-  Unidade Básica de Saúde, criado como projeto de intervenção e replicado para outras UBS de
-  Brusque/SC.
+- **[UBS Brusque](https://github.com/13ggd/ubs-brusque)** — painel com as 27 Unidades Básicas de Saúde
+  de Brusque/SC: o site de horários, avisos e contatos de cada UBS (projeto de intervenção iniciado na
+  UBS Paquetá e replicado para as demais unidades) e o painel público/administrativo que reúne todas
+  elas em um só lugar.
 
 #### 🛠️ Tecnologias
 
